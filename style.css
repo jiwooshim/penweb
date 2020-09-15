@@ -1,0 +1,48 @@
+h1 {
+  position: fixed;
+  font-family: Arial;
+  font-size: 12px;
+  font-weight: 700;
+  margin: 40px 40px;
+}
+
+footer:hover {
+  bottom: 35px;
+}
+
+footer {
+  position: fixed;
+  width: 40px;
+  bottom: 30px;
+  left: 50%;
+  margin-left: -20px;
+}
+
+
+
+section {
+/*   font-size: 40px; */
+  height: 100vh;
+  background-image: url(the-pen.svg);
+  background-size: cover;
+  background-position: center;
+}
+
+.is_mightier {
+  background-image: url(is-mightier.svg);
+  background-color: #000000;
+}
+
+.than {
+  background-image: url(than.svg);
+}
+
+.the_sword {
+  background-image: url(the-sword.svg);
+  background-color: #000000;
+}
+
+.end {
+  background-image: url(end.svg);
+  background-color: #00f10a;
+}
